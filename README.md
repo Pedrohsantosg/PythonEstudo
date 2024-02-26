@@ -1,1 +1,1 @@
-<h1>Praticando Python</h1>
+<h1 style="text-align=center">Praticando Python</h1>
