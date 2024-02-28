@@ -10,10 +10,10 @@
 <li>009 --> Tabuada</li>
 <li>010 --> Conversor de moedas</li>
 <li>011 --> Lendo a largura e altura de uma parede em metros e canculando essa áera</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>012 --> Calculando descontos</li>
+<li>013 --> Reajuste Salarial</li>
+<li>014 --> Conversor de Temperaturas</li>
+<li>015 --> Aluguel de carros</li>
 <li></li>
 <li></li>
 <li></li>
