@@ -19,11 +19,11 @@
 <li>018 --> Seno, Cosseno e Tangente</li>
 <li>019 --> Sorteando um item na lista</li>
 <li>020 --> Sorteando uma ordem na lista</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>021 --> Tocando um MP3</li>
+<li>022 --> Analisador de Textos</li>
+<li>023 --> Separando dígitos de um número</li>
+<li>024 --> Verificando a primeira lista de um texto</li>
+<li>025 --> Procurando uma string dentro de outra</li>
 <li></li>
 <li></li>
 <li></li>
