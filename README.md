@@ -14,11 +14,11 @@
 <li>013 --> Reajuste Salarial</li>
 <li>014 --> Conversor de Temperaturas</li>
 <li>015 --> Aluguel de carros</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>016 --> Quebrando um número</li>
+<li>017 --> Catetos e Hipotenusas</li>
+<li>018 --> Seno, Cosseno e Tangente</li>
+<li>019 --> Sorteando um item na lista</li>
+<li>020 --> Sorteando uma ordem na lista</li>
 <li></li>
 <li></li>
 <li></li>
