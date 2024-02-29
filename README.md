@@ -29,3 +29,8 @@
 <li>028 --> Jogo de adivinhação v.1.0</li>
 <li>029 --> Radar eletrônico</li>
 <li>030 --> Par ou Ímpar?</li>
+<li>031 --> Custo da viagem</li>
+<li>032 --> Ano Bissexto</li>
+<li></li>
+<li></li>
+<li></li>
