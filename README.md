@@ -24,7 +24,8 @@
 <li>023 --> Separando dígitos de um número</li>
 <li>024 --> Verificando a primeira lista de um texto</li>
 <li>025 --> Procurando uma string dentro de outra</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>026 --> Primeira e última ocorrência de uma string</li>
+<li>027 --> Primeiro e último nome de uma pessoa</li>
+<li>028 --> Jogo de adivinhação v.1.0</li>
+<li>029 --> Radar eletrônico</li>
+<li>030 --> Par ou Ímpar?</li>
