@@ -31,6 +31,6 @@
 <li>030 --> Par ou Ímpar?</li>
 <li>031 --> Custo da viagem</li>
 <li>032 --> Ano Bissexto</li>
-<li>033</li>
+<li>033 --> Maior e menor valores</li>
 <li>034</li>
 <li>035</li>
