@@ -35,3 +35,36 @@
 <li>034 --> Aumento mútiplos</li>
 <li>035 --> Analisando Triângulos</li>
 <img src='ex001-035.png' alt='Desafio para revisão dos exercicios anteriores'>
+<li>036 --> Aprovando Empréstimos</li>
+<li>037 --> Conversor de Bases Numéricas</li>
+<li>038 --> Comparando números</li>
+<li>039 --> Alistamento Militar</li>
+<li>040 --> Média Escolar Sem Peso</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
