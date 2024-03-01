@@ -35,7 +35,9 @@
 <li>034 --> Aumento mútiplos</li>
 <li>035 --> Analisando Triângulos</li>
 <div>
+  <hr>
   <img src='ex001-035.png' alt='Desafio para revisão dos exercicios anteriores'>
+  <hr>
 </div>
 <li>036 --> Aprovando Empréstimos</li>
 <li>037 --> Conversor de Bases Numéricas</li>
