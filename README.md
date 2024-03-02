@@ -44,9 +44,9 @@
 <li>038 --> Comparando números</li>
 <li>039 --> Alistamento Militar</li>
 <li>040 --> Média Escolar Sem Peso</li>
-<li>EM BREVE ...</li>
-<li>EM BREVE ...</li>
-<li>EM BREVE ...</li>
+<li>045 --> Classificando Atletas</li>
+<li>046 --> Analisando Triângulos</li>
+<li>047 --> Índice de massa corporal</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
