@@ -48,8 +48,8 @@
 <li>042 --> Analisando Triângulos</li>
 <li>043 --> Índice de massa corporal</li>
 <li>044 --> Gerenciador de Pagamento</li>
-<li>045 --> Pedro, Papel e Tesoura</li>
-<li>EM BREVE ...</li>
+<li>045 --> Pedra, Papel e Tesoura</li>
+<li>046 --> Contagem Regressiva</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
