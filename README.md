@@ -51,7 +51,7 @@
 <li>045 --> Pedra, Papel e Tesoura</li>
 <li>046 --> Contagem Regressiva</li>
 <li>047 --> Contagem de pares</li>
-<li>EM BREVE ...</li>
+<li>048 --> Soma Ímpare múltiplos de três</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
