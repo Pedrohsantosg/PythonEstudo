@@ -50,7 +50,7 @@
 <li>044 --> Gerenciador de Pagamento</li>
 <li>045 --> Pedra, Papel e Tesoura</li>
 <li>046 --> Contagem Regressiva</li>
-<li>EM BREVE ...</li>
+<li>047 --> Contagem de pares</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
