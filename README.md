@@ -54,7 +54,7 @@
 <li>048 --> Soma Ímpare múltiplos de três</li>
 <li>049 --> Tabuada v.2.0</li>
 <li>050 --> Soma dos pares</li>
-<li>EM BREVE ...</li>
+<li>051 --> Progressão Aritmética</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
