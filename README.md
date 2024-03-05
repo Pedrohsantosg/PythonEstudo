@@ -56,7 +56,7 @@
 <li>050 --> Soma dos pares</li>
 <li>051 --> Progressão Aritmética</li>
 <li>052 --> Números primos</li>
-<li>EM BREVE ...</li>
+<li>053 --> Detector de Palíndromo</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
