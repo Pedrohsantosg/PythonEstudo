@@ -20,4 +20,6 @@ match opcao:
     case 4:
         total = valor + (valor * 20 / 100)
         print('Sua compra de R${:.2f} custará R${:.2f} com juros de 20%'.format(valor, total))
+    case _:
+        print('Opção Inválida!')
     
