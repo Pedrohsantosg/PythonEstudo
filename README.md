@@ -55,7 +55,7 @@
 <li>049 --> Tabuada v.2.0</li>
 <li>050 --> Soma dos pares</li>
 <li>051 --> Progressão Aritmética</li>
-<li>EM BREVE ...</li>
+<li>052 --> Números primos</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
