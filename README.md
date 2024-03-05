@@ -45,7 +45,7 @@
 <li>039 --> Alistamento Militar</li>
 <li>040 --> Média Escolar Sem Peso</li>
 <li>041 --> Classificando Atletas</li>
-<li>042 --> Analisando Triângulos</li>
+<li>042 --> Analisando Triângulos 2.0</li>
 <li>043 --> Índice de massa corporal</li>
 <li>044 --> Gerenciador de Pagamento</li>
 <li>045 --> Pedra, Papel e Tesoura</li>
