@@ -57,7 +57,7 @@
 <li>051 --> Progressão Aritmética</li>
 <li>052 --> Números primos</li>
 <li>053 --> Detector de Palíndromo</li>
-<li>EM BREVE ...</li>
+<li>054 --> Grupo da Maioridade</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
