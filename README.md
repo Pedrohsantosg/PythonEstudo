@@ -61,8 +61,8 @@
 <li>055 --> Maior e menor da sequência</li>
 <li>056 --> Analisador Completo</li>
 <li>057 --> Validação de Dados</li>
-<li>058 --> Jogo de Adivinhação</li></li>
-<li>EM BREVE ...</li>
+<li>058 --> Jogo de Adivinhação v2.0</li></li>
+<li>059 --> Criando um Menu de Opções</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
