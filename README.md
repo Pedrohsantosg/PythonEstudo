@@ -59,7 +59,7 @@
 <li>053 --> Detector de Palíndromo</li>
 <li>054 --> Grupo da Maioridade</li>
 <li>055 --> Maior e menor da sequência</li>
-<li>EM BREVE ...</li>
+<li>056 --> Analisador Completo</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
