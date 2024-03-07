@@ -60,7 +60,7 @@
 <li>054 --> Grupo da Maioridade</li>
 <li>055 --> Maior e menor da sequência</li>
 <li>056 --> Analisador Completo</li>
-<li>EM BREVE ...</li>
+<li>057 --> Validação de Dados</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
