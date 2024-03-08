@@ -68,7 +68,7 @@
 <li>062 --> Progressão Aritmética v3.0</li>
 <li>063 --> Sequência de Fibonacci v1.0</li>
 <li>064 --> Tratando vários valores v1.0</li>
-<li>EM BREVE ...</li>
+<li>065 --> Maior e Menores valores</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
