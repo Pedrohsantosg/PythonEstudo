@@ -64,7 +64,7 @@
 <li>058 --> Jogo de Adivinhação v2.0</li></li>
 <li>059 --> Criando um Menu de Opções</li>
 <li>060 --> Cálculo de Fatorial</li>
-<li>EM BREVE ...</li>
+<li>061 --> Progressão Aritmética v2.0</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
