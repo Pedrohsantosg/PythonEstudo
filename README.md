@@ -65,7 +65,7 @@
 <li>059 --> Criando um Menu de Opções</li>
 <li>060 --> Cálculo de Fatorial</li>
 <li>061 --> Progressão Aritmética v2.0</li>
-<li>EM BREVE ...</li>
+<li>062 --> Progressão Aritmética v3.0</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
 <li>EM BREVE ...</li>
